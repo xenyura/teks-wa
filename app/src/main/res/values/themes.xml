@@ -1,0 +1,6 @@
+<resources>
+    <color name="ic_launcher_background">#0E4A47</color>
+    <style name="Theme.TeksWA" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/ic_launcher_background</item>
+    </style>
+</resources>
